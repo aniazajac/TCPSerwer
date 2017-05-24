@@ -54,6 +54,7 @@
             this.przycisk_stop.TabIndex = 1;
             this.przycisk_stop.Text = "Stop";
             this.przycisk_stop.UseVisualStyleBackColor = true;
+            this.przycisk_stop.Click += new System.EventHandler(this.przycisk_stop_Click);
             // 
             // adres
             // 
