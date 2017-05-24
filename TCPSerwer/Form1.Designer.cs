@@ -70,19 +70,9 @@
             0,
             0,
             0});
-            this.my_port.Minimum = new decimal(new int[] {
-            65535,
-            0,
-            0,
-            0});
             this.my_port.Name = "my_port";
             this.my_port.Size = new System.Drawing.Size(331, 20);
             this.my_port.TabIndex = 3;
-            this.my_port.Value = new decimal(new int[] {
-            65535,
-            0,
-            0,
-            0});
             this.my_port.ValueChanged += new System.EventHandler(this.numericUpDown1_ValueChanged);
             // 
             // info_o_polaczeniu
